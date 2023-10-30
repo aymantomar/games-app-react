@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/games-app-react/static/css/main.58780e82.css",
+    "main.js": "/games-app-react/static/js/main.aebcdf4d.js",
+    "static/media/fa-solid-900.ttf": "/games-app-react/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/gaming.jpg": "/games-app-react/static/media/gaming.ebaf2ffc84f4451d.d5751ff804c935b205d3.jpg",
+    "static/media/fa-brands-400.ttf": "/games-app-react/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/logo.png": "/games-app-react/static/media/logo.548dc5719c2345c22eef.png",
+    "static/media/fa-solid-900.woff2": "/games-app-react/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/games-app-react/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/games-app-react/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/games-app-react/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/games-app-react/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/games-app-react/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/slick.svg": "/games-app-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/games-app-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/games-app-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/games-app-react/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/games-app-react/index.html",
+    "main.58780e82.css.map": "/games-app-react/static/css/main.58780e82.css.map",
+    "main.aebcdf4d.js.map": "/games-app-react/static/js/main.aebcdf4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58780e82.css",
+    "static/js/main.aebcdf4d.js"
+  ]
+}
